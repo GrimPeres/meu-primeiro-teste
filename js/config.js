@@ -17,6 +17,14 @@ const config = {
         title: "Menu Executivo",
         pdf: "pdf/menu.pdf"
     }
+    {
+    	title:"Natal 2026",
+    	pdf:"pdf/natal.pdf"
+	},
+	{
+	    title:"Promoções",
+	    pdf:"pdf/promocoes.pdf"
+	}
 	],
 
     contacts: {
