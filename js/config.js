@@ -5,11 +5,19 @@ const config = {
     },
 
     catalogs: [
-        {
-            title: "Catálogo Principal",
-            pdf: "pdf/catalogo.pdf"
-        }
-    ],
+    {
+        title: "Catálogo Principal",
+        pdf: "pdf/catalogo.pdf"
+    },
+    {
+        title: "Carta de Vinhos",
+        pdf: "pdf/vinhos.pdf"
+    },
+    {
+        title: "Menu Executivo",
+        pdf: "pdf/menu.pdf"
+    }
+	],
 
     contacts: {
         website: "https://www.exemplo.pt",
